@@ -1,0 +1,14 @@
+[
+    {
+        "target_url": "https://3i.com",
+        "lookup_label": "3i",
+        "safe_key": "https___3i_com",
+        "count_pdf_pages": 0,
+        "count_html_pages": 0,
+        "largest_pdf_size": 0,
+        "largest_pdf_link": "",
+        "pdf_scraped_pages": {},
+        "html_scraped_pages": {},
+        "scraped_pages": {}
+    }
+]
